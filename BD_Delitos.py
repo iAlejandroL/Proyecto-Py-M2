@@ -90,9 +90,10 @@ for estado in top_10_estados['estado']:
 
 recomendaciones = """
 Recomendaciones:
-1. Implementar programas de prevención del delito en los estados con mayor número de delitos.
-2. Incrementar la presencia policial en las regiones y meses con mayor incidencia delictiva.
-3. Fomentar la colaboración entre diferentes estados para compartir estrategias efectivas.
+1. Prevención del Delito: Implementar programas de prevención en los estados con mayor incidencia delictiva.
+2. Incremento de la Presencia Policial: Aumentar la presencia policial en las regiones con mayor incidencia delictiva.
+3. Colaboración Regional: Fomentar la cooperación entre estados para compartir estrategias efectivas y recursos.
+4. Análisis Continuo: Mantener un análisis continuo de los datos para ajustar estrategias de seguridad en tiempo real.
 """
 
 print(recomendaciones)
